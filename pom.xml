@@ -83,7 +83,7 @@
         <test.extra.jvm.opts />
         <test.skip.default>false</test.skip.default>
         <top.level.basedir>${basedir}</top.level.basedir>
-        <compiler.source>1.6</compiler.source>
+        <compiler.source>1.7</compiler.source>
         <compiler.target>1.7</compiler.target>
         <compiler.args />
     </properties>
